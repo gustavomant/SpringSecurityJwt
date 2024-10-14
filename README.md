@@ -24,4 +24,4 @@ A autenticação via JWT é amplamente utilizada em APIs RESTful para garantir q
 
 ## Referência
 
-Este código foi baseado no artigo [Protegendo sua API REST com Spring Security e Autenticando Usuários com Token JWT em uma Aplicação Stateless](https://medium.com/@felipeacelinoo/protegendo-sua-api-rest-com-spring-security-e-autenticando-usu%C3%A1rios-com-token-jwt-em-uma-aplica%C3%A7%C3%A3o-d70e5b0331f9) por Felipe Acelino.
+Este código foi copiado do artigo [Protegendo sua API REST com Spring Security e Autenticando Usuários com Token JWT em uma Aplicação Stateless](https://medium.com/@felipeacelinoo/protegendo-sua-api-rest-com-spring-security-e-autenticando-usu%C3%A1rios-com-token-jwt-em-uma-aplica%C3%A7%C3%A3o-d70e5b0331f9) por Felipe Acelino.
